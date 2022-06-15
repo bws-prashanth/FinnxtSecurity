@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+## TERMS OF USE OF OUR SERVICE
 
-You can use the [editor on GitHub](https://github.com/bws-prashanth/FinnxtSecurity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By visiting or registering with us, you are agreeing to the following terms and conditions. We may alter or change these terms and conditions at any time. Your continued use of Finnxt platform means you accept any new or modified terms and conditions that we come up with. Please re-visit the `Terms of Use’ link at our app from time to time to stay abreast of any changes that we may introduce.
+By signing in or using Finnxt you agree to,
+Obey the law.
+Obey any codes of conduct or other notices we provide.
+keep your service account password secret.
+Notify us if you learn of a security breach related to the service.
+What you cannot do
+In using the service, you may not: engage in, facilitate or further unlawful conduct use the service in a way that harms us or our advertisers, affiliates, resellers, distributors and/or vendors, or any customer of ours or our advertisers, affiliates, resellers, distributors and/or vendors, use any portion of the service as a destination linked from any unsolicited bulk messages or unsolicited commercial messages (spam)use any automated process or service to access and/or use the service (such as a BOT, a spider or meta-searching) use any unauthorized means to modify or reroute, or attempt to modify or reroute, the service, damage, disable, overburden, or impair the service (or the network(s) connected to the service) or interfere with anyone’s use and enjoyment of the service,or
+Resell or redistribute the service, or any part of the service.
+Collection and usage of user data Information you provide. When using our app and services, you may provide information about yourself, such as name, address, phone, mobile, and e-mail. This may occur when you register on Finnxt apps. We may combine this information with other information we collect from your activity on our mobile app or from other companies. This information may be shown or shared to other users by you or by us. Cookies and mobile beacons. Cookies are bits of electronic information that can be transferred to a app to uniquely identify that app’s browser.
+When you visit Finnxt network apps, and use our services, we may place one or more cookies on your app. The use of cookies helps us improve the quality of our services to you, by identifying information which is most interesting to you, tracking trends, or storing information you may want to retrieve on a regular basis. At any time, you may adjust settings on your browser to refuse cookies. However, if you choose to disable cookies, some features services on Finnxt network apps, will not operate properly. Also, the pages of our service may include mobile beacons, which are electronic files to count users who have viappd that page or to identify certain cookies on the app accessing that page.
+Usage logs. 
+When you use Finnxt network apps, your app communicates a variety of information including the existence of cookies, your Internet Protocol address, and information about your browser program. We also create a record of what information you are requesting, such as the page or subject areas you’re visiting including IPs and other identifiers in the network for our business intelligence products as well as for legal tracking on demand.
+The price for the service excludes all taxes and phone charges, unless stated otherwise. You are responsible for any taxes that you are obligated to pay or that we may collect from you. You are responsible for all other charges (for example, phone charges). Currency exchange settlements are based on your agreement with your payment method provider. We may change the price of the service from time to time, and we will keep you informed about the same by physical or electronic communications or on our online portal.
+If there is a specific time length and price for your service offer, then that price will remain in force for that time. After the offer period ends, your use of the service will be charged at the new price.
+If your service is on a period basis (for example, monthly), with no specific time length, the next billing will happen with the new prices.
+There is no charge or billing for filling up the contact us form on any page.
+Forms of this nature includes form filled on the context of contacting us for buying leads pack or submitting a request for more information.
+Finnxt and APIs usage on 3rd party apps – installations, API usage and widgets usage
+Some of the widgets may signup up for Finnxt services
+All such sign-ups will follow the same benefits and implications as a regular Finnxt user.
+As 3rd party widgets/ API’s are open APIs usage of these widgets and APIs will be completely on the user’s desertion
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Any 3rd party API/widget installer agrees not to tamper, spam, misuse the code or APIs Refund Policies
+Unless otherwise provided by law or in connection with any particular service offer, all charges are non-refundable, and the costs of any returns will be at your expense.
+Cancelling the Service You may cancel the service at any time, with or without cause by contacting us directly.
+Your liability-You agree to use the app solely at your own risk. The contents on the app may have inaccuracies which may be corrected time to time.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**No Warranty** We provide the service as-is, .with all faults and as available. We do not guarantee the accuracy or timeliness of information available from the service.
 
-- Bulleted
-- List
+**Termination** All accounts opened with Finnxt network apps can be terminated by Finnxt with or without cause. Finnxt network apps will not have any legal liability for retaining or revoking these accounts for the users.
 
-1. Numbered
-2. List
+**Jurisdiction** The terms of this agreement are exclusively based on and subject to Indian law. You hereby consent to the exclusive jurisdiction and venue of courts in Pune, India in all disputes arising out of or relating to the use of this mobileapp.
+Emails, SMS or any other form of communication
+While you are registered on Finnxt network apps you may receive communication from us in any form like email, sms or other mailing or communication models. Some of these may have been opted by you and some may be part of our feature processed to keep you informed. You may not be able to unsubscribe from all of these.
+Control over the content, service, registrations, accounts, user database, expansion, sharing etc. Finnxt network apps with the affiliates and associated apps, hold the complete control on the following items,
+1. Content – We hold the complete right to hide, delete or show any content time to time
+2. Service – This service is available online and mostly but not always free. 3. Registration and user accounts
+4. User database
+5. Feature and product expansions
+6. Data Sharing
 
-**Bold** and _Italic_ and `Code` text
+**Published content** Publishers are responsible solely for all the content on the app. No user will have right unless given in written consent by Finnxt network to do so to republish the content in any other medium for personal or commercial use.
+Copyrights-It is illegal to make copies, republish or store any content from Finnxt network app and will be liable to be punished legally. The content on the app may have copyrights by the creator or owner, reuse of the content needs the desired rights of usage.
+Support and help-Support for services of Finnxt network apps may not be always assured. Finnxt network apps can pull off the support at any time. Similarly there is no assurance of availability of help or any related documentation for usage all the time. You can contact us on info@Finnxt.com
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+GENERAL Access to the mobileapps and content-We will endeavour to allow uninterrupted access to the mobileapps, but access to the mobileapp can be suspended, restricted or terminated at any time without giving any notice. We reserve the right to change, modify, substitute, suspend or remove without notice any information or service on the mobileapps from time to time. We assume no responsibility for the content or services of any other to or from which the mobileapps has links.
 
-### Jekyll Themes
+**Intellectual Property** The copyright and all other intellectual property rights in the material contained in the mobileapps, together with the mobileapp design, text and graphics, and their selection and arrangement, and all software compilations, underlying source code and software (including applets) belongs to us.We own all rights in the mobileapps and all the contents of the mobileapps. You shall retain ownership of the data you submit to the mobileapps. You grant us a worldwide, royalty-free, non-terminable license to use, keep, share, save, collect, copy, distribute, publish and transmit such data in any manner as we deem fit within our Privacy Policy.Nothing within any of the mobileapp is, or shall be deemed to constitute, financial or other advice or a recommendation to purchase any product or service. Any and all information provided within the mobileapps is for general information purposes only. We strongly advise that independent professional advice be obtained before you purchase any product and/or service via mobileapps.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bws-prashanth/FinnxtSecurity/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Exclusions of liability** We use reasonable endeavours to ensure that the data, material and information on the mobileapps are accurate. We will also endeavour to correct any errors or omissions as soon as practicable after being notified of them. However, we are not responsible in any way if the data, material and information on the mobileapps are found to be inaccurate or if there are any errors or omissions in the data, material and information. We do not monitor, verify or endorse data, material and information submitted or provided by third parties, which is included on the mobileapps, and you should be aware that such information may be inaccurate, incomplete or out of date. In particular, we do not monitor, verify or endorse the information or quotations collected from the product and service providers as presented to you on the mobileapps. We are not responsible for any data, material or information included on the mobileapps, which has been provided by third parties.
+We are not responsible for any losses or damages arising from an inability to access the mobileapps, from any use of the mobileapps or from reliance on the data transmitted using the mobileapps where such losses or damages are caused by any event beyond our reasonable control including as a result of the nature of electronic transmission of data over the internet. We are not responsible or liable for any indirect losses or damages suffered or incurred by you or for any losses or damages suffered or incurred by you which were not foreseeable by us when you accessed or used the mobileapps.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Exclusion of liability for third party providers products and services-You can apply for and buy a number of products and services via the mobileapps. It is specifically clarified that we provide none of the products and services that appear on the mobileapps. All these products and services are provided by third parties over whom we do not have control. You should satisfy yourself that you wish to purchase those products or services before contracting with the third parties. We are not responsible for any products or services or information provided by third party providers.You should exercise due caution to ensure your interests. Do not handover any cash. Get all promises on terms and conditions in writing on a letterhead. Get the visiting card of the person visiting you and check out that the landlines numbers mentioned on the card are correct. Most advertisers are unable to return documents in case your proposal is not accepted. If this is an issue with you, please get a promise to return your documents in writing in the event of your proposal is not accepted for any reason.Any transactions relating to sale/purchase of goods or services not directly offered by Us are to be settled inter-se between the parties to such transaction and all warranties express or implied of any kind, regarding any matter pertaining thereto, including without limitation the implied warranties of merchantability, fitness for a particular purpose, and non-infringement are disclaimed by Us.We merely endeavor to provide a platform where you and other party may interact, exchange information or carry out any transactions on such terms and in the manner mutually agreed between you and the other party. We do not have any involvement in the actual transactions between the buyers and sellers of any product and service. It is only you, who is entirely responsible for all the activities, arising out of the transactions of goods or services offered by any other party and not us. We will not be liable for any loss that you may incur, while selling or purchasing goods /services of the third party.
+
+**Advertisements** The advertisements that you see displayed on this mobileapps are delivered on our behalf by a third party. You have chosen the advertisers to whom your details will be referred. These parties are independent 3rd parties and we have no control over their functioning. We act in good faith in providing a comparison service and allowing advertisers to advertise on it. We disclaim all liability and responsibility for the conduct of advertisers using our app to advertise their services. We are not responsible for their services advertised on this app. Users should carry out appropriate checks before engaging them for any services and be confident of their integrity and have proper contact details for the advertiser (not just their mobile number). If in doubt do not engage their services. This app disclaims without exception all liability for all Advertisements. Furthermore no advertiser is an associate of this app and we do not act as an agent for any advertiser and where a dispute arises between parties, you undertake to resolve it independently of this app and accept that this app will not mediate in any dispute between parties.
+
+**Your obligations** You warrant that you have taken all reasonable precautions to ensure that any data you submit to the mobileapps is true and accurate. You warrant that all information provided on registration on the mobileapps and otherwise provided by you on this app shall be true, complete and accurate.By using the mobileapp and/or registering yourself at Finnxt or its affiliate apps you authorize us, our affiliates & our associate partners to contact you via email or phone call or sms and offer you their services for the product you have opted for, imparting product knowledge, offer promotional offers running on mobileapp & offers offered by the associated third parties, for which reasons, as well as mobile aggregation, personally identifiable information may be collected as detailed below. And Irrespective of the fact if also you have registered yourself under DND or DNC or NCPR service, you still authorize us to give you a call from Finnxt & its associate partners for the above-mentioned purposes.
+
+Your telephone calls-Telephone calls that you make to our customer service help line on the numbers mention in the contact us section of the mobileapps or calls made by our support desk may be monitored or recorded. This will help us to train our staff and improve our service to you. A recording will only be used under proper and careful supervision. Our customer service help line is available on the times notified in the contact us section of the mobileapps Your telecom provider will charge you at local rates for calls made to non 1-800 numbers.
+
+**Complaints** Our aim at all times is to provide you with an excellent service. However, if you are unhappy with our service for any reason, please contact our Customer Operations Team by telephone numbers or email address provided in the contact us section of the mobileapps.
+
+**Data protection** We are committed to protecting your privacy. Our privacy practices are set out in our Privacy Policy
+
+**Guidance Notes** The following sections form part of the terms and conditions and provide more specific guidance on certain products and services
+
+**Loans & Credit Cards** The products displayed on the mobileapps are examples of products currently available. Our selection as it appears on the mobileapps and nothing in these terms and conditions constitutes advice or a recommendation to purchase a particular credit card or loan product We receive fees from certain lenders/credit card issuers or agents/distributors/brokers who advertise on or are linked to the mobileapps. We retain the fees and we do not charge you for the service we offer via the mobileapps.
+
+Please be aware that it is very important that before you apply for a loan or a credit card product you carefully read the terms on the application form which will include details of the interest rates applicable and any early prepayment charges and other charges if relevant
+
+**General** The mobileapps are for your non-commercial, personal use only and must not be used for business purposes.
